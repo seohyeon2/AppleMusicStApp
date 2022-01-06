@@ -34,7 +34,9 @@ https://user-images.githubusercontent.com/50102522/148342577-6ee94677-9c94-4713-
 ❗️ 각 코드의 주석 참고
 
 <br>
-[홈 화면](AppleMusicStApp/AppleMusicStApp/Home/HomeViewController.swift)
+
+### [홈 화면](AppleMusicStApp/AppleMusicStApp/Home/HomeViewController.swift)
+
 <img src="https://user-images.githubusercontent.com/50102522/148342786-77887b13-fa29-4bb9-b03f-2344f967cf1e.PNG" height="700">
 
 
