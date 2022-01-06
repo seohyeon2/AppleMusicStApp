@@ -22,7 +22,7 @@
 
 
 ## 🎥 Demo  🎥
-
+❗️ 영상 크기 때문에 음악 소리 제거함
 
 https://user-images.githubusercontent.com/50102522/148342577-6ee94677-9c94-4713-96c2-e638932a2aa2.mov
 
@@ -35,10 +35,7 @@ https://user-images.githubusercontent.com/50102522/148342577-6ee94677-9c94-4713-
 
 <br>
 
-### [홈 화면](AppleMusicStApp/AppleMusicStApp/Home/HomeViewController.swift)
-
-<img src="https://user-images.githubusercontent.com/50102522/148342786-77887b13-fa29-4bb9-b03f-2344f967cf1e.PNG" height="700">
-
-
-<img src="https://user-images.githubusercontent.com/50102522/148343114-11c0b022-450a-48eb-9ca2-715f956628ca.PNG" height="700">
+|[홈 화면 코드 보기](AppleMusicStApp/AppleMusicStApp/Home/HomeViewController.swift)|[홈 화면 코드 보기](AppleMusicStApp/AppleMusicStApp/Home/HomeViewController.swift)|
+|:--:|:--:|
+|<img src="https://user-images.githubusercontent.com/50102522/148342786-77887b13-fa29-4bb9-b03f-2344f967cf1e.PNG" height="700">|<img src="https://user-images.githubusercontent.com/50102522/148343114-11c0b022-450a-48eb-9ca2-715f956628ca.PNG" height="700">|
 
